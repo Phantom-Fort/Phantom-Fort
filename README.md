@@ -1,5 +1,5 @@
 # 👋 About Me:
-- 🔐 Cybersecurity Enthusiast with expertise in **API Security**, **Web Penetration Testing**, **Solidity**, **Rust** and **Network Security**.
+- 🔐 Cybersecurity Professional with expertise in **API Security**, **Web Penetration Testing**, **Solidity**, **Rust** and **Network Security**.
 - 🧠 Currently learning **Web3 Security** and participating in **auditing contests**.
 - 🎓 Graduate of Cybersecurity from the Federal University of Technology Akure.
 - 💞️ Share with me your feedback loop methodology for auditing.
