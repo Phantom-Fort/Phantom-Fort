@@ -2,7 +2,7 @@
 - 🔐 Cybersecurity Professional with expertise in **API Security**, **Web Penetration Testing**, **Solidity**, **Rust** and **Network Security**.
 - 🧠 Currently learning **Web3 Security** and participating in **auditing contests**.
 - 🎓 Graduate of Cybersecurity from the Federal University of Technology Akure.
-- 💞️ Share with me your feedback loop methodology for auditing.
+- 💞️ Share with me your best auditing methodology.
 - 📫 How to reach me posiayoola102@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a male 
